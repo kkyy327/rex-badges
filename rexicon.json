@@ -1,0 +1,102 @@
+{
+  "name": "REX ICON 图标库",
+  "description": "REX 单标志多配色图标集 by wxy",
+  "icons": [
+    {
+      "name": "Bright Red",
+      "url": "https://i.988726.xyz/icon/rex-01-bright-red.png"
+    },
+    {
+      "name": "Sapphire",
+      "url": "https://i.988726.xyz/icon/rex-02-sapphire.png"
+    },
+    {
+      "name": "Midnight",
+      "url": "https://i.988726.xyz/icon/rex-03-midnight.png"
+    },
+    {
+      "name": "Glacier",
+      "url": "https://i.988726.xyz/icon/rex-04-glacier.png"
+    },
+    {
+      "name": "Peacock",
+      "url": "https://i.988726.xyz/icon/rex-05-peacock.png"
+    },
+    {
+      "name": "Pine",
+      "url": "https://i.988726.xyz/icon/rex-06-pine.png"
+    },
+    {
+      "name": "Sage",
+      "url": "https://i.988726.xyz/icon/rex-07-sage.png"
+    },
+    {
+      "name": "Matcha",
+      "url": "https://i.988726.xyz/icon/rex-08-matcha.png"
+    },
+    {
+      "name": "Olive Gold",
+      "url": "https://i.988726.xyz/icon/rex-09-olive-gold.png"
+    },
+    {
+      "name": "Honey",
+      "url": "https://i.988726.xyz/icon/rex-10-honey.png"
+    },
+    {
+      "name": "Terracotta",
+      "url": "https://i.988726.xyz/icon/rex-11-terracotta.png"
+    },
+    {
+      "name": "Burgundy",
+      "url": "https://i.988726.xyz/icon/rex-12-burgundy.png"
+    },
+    {
+      "name": "Raspberry",
+      "url": "https://i.988726.xyz/icon/rex-13-raspberry.png"
+    },
+    {
+      "name": "Dusty Rose",
+      "url": "https://i.988726.xyz/icon/rex-14-dusty-rose.png"
+    },
+    {
+      "name": "Grape",
+      "url": "https://i.988726.xyz/icon/rex-15-grape.png"
+    },
+    {
+      "name": "Iris",
+      "url": "https://i.988726.xyz/icon/rex-16-iris.png"
+    },
+    {
+      "name": "Lavender",
+      "url": "https://i.988726.xyz/icon/rex-17-lavender.png"
+    },
+    {
+      "name": "Steel Blue",
+      "url": "https://i.988726.xyz/icon/rex-18-steel-blue.png"
+    },
+    {
+      "name": "Mocha",
+      "url": "https://i.988726.xyz/icon/rex-19-mocha.png"
+    },
+    {
+      "name": "Champagne",
+      "url": "https://i.988726.xyz/icon/rex-20-champagne.png"
+    },
+    {
+      "name": "Obsidian",
+      "url": "https://i.988726.xyz/icon/rex-21-obsidian.png"
+    },
+    {
+      "name": "Sunflower",
+      "url": "https://i.988726.xyz/icon/rex-22-sunflower.png"
+    },
+    {
+      "name": "Amber",
+      "url": "https://i.988726.xyz/icon/rex-23-amber.png"
+    },
+    {
+      "name": "Emerald",
+      "url": "https://i.988726.xyz/icon/rex-24-emerald.png"
+    }
+  ]
+}
