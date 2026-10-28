@@ -152,7 +152,11 @@
     },
     {
       "name": "YouTube",
-      "url": "https://i.988726.xyz/icon/youtube.png"
+      "url": "https://i.988726.xyz/icon/youtube.png?v=3"
+    },
+    {
+      "name": "N Classic",
+      "url": "https://i.988726.xyz/icon/n-classic.png?v=2"
     }
   ]
 }
