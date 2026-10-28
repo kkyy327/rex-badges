@@ -1,102 +1,154 @@
 {
   "name": "REX ICON 图标库",
-  "description": "REX 单标志多配色图标集 by wxy",
+  "description": "自托管图标库 · 原图 by Rex模块分享 (speedoa/rexicon)",
   "icons": [
     {
       "name": "Bright Red",
-      "url": "https://i.988726.xyz/icon/rex-01-bright-red.png"
+      "url": "https://i.988726.xyz/icon/rex-square-01-bright-red.png"
     },
     {
       "name": "Sapphire",
-      "url": "https://i.988726.xyz/icon/rex-02-sapphire.png"
+      "url": "https://i.988726.xyz/icon/rex-square-09-sapphire.png"
     },
     {
       "name": "Midnight",
-      "url": "https://i.988726.xyz/icon/rex-03-midnight.png"
+      "url": "https://i.988726.xyz/icon/rex-square-10-midnight.png"
     },
     {
       "name": "Glacier",
-      "url": "https://i.988726.xyz/icon/rex-04-glacier.png"
+      "url": "https://i.988726.xyz/icon/rex-square-11-glacier.png"
     },
     {
       "name": "Peacock",
-      "url": "https://i.988726.xyz/icon/rex-05-peacock.png"
+      "url": "https://i.988726.xyz/icon/rex-square-12-peacock.png"
     },
     {
       "name": "Pine",
-      "url": "https://i.988726.xyz/icon/rex-06-pine.png"
+      "url": "https://i.988726.xyz/icon/rex-square-13-pine.png"
     },
     {
       "name": "Sage",
-      "url": "https://i.988726.xyz/icon/rex-07-sage.png"
+      "url": "https://i.988726.xyz/icon/rex-square-14-sage.png"
     },
     {
       "name": "Matcha",
-      "url": "https://i.988726.xyz/icon/rex-08-matcha.png"
+      "url": "https://i.988726.xyz/icon/rex-square-15-matcha.png"
     },
     {
       "name": "Olive Gold",
-      "url": "https://i.988726.xyz/icon/rex-09-olive-gold.png"
+      "url": "https://i.988726.xyz/icon/rex-square-16-olive-gold.png"
     },
     {
       "name": "Honey",
-      "url": "https://i.988726.xyz/icon/rex-10-honey.png"
+      "url": "https://i.988726.xyz/icon/rex-square-17-honey.png"
     },
     {
       "name": "Terracotta",
-      "url": "https://i.988726.xyz/icon/rex-11-terracotta.png"
+      "url": "https://i.988726.xyz/icon/rex-square-18-terracotta.png"
     },
     {
       "name": "Burgundy",
-      "url": "https://i.988726.xyz/icon/rex-12-burgundy.png"
+      "url": "https://i.988726.xyz/icon/rex-square-19-burgundy.png"
     },
     {
       "name": "Raspberry",
-      "url": "https://i.988726.xyz/icon/rex-13-raspberry.png"
+      "url": "https://i.988726.xyz/icon/rex-square-20-raspberry.png"
     },
     {
       "name": "Dusty Rose",
-      "url": "https://i.988726.xyz/icon/rex-14-dusty-rose.png"
+      "url": "https://i.988726.xyz/icon/rex-square-21-dusty-rose.png"
     },
     {
       "name": "Grape",
-      "url": "https://i.988726.xyz/icon/rex-15-grape.png"
+      "url": "https://i.988726.xyz/icon/rex-square-22-grape.png"
     },
     {
       "name": "Iris",
-      "url": "https://i.988726.xyz/icon/rex-16-iris.png"
+      "url": "https://i.988726.xyz/icon/rex-square-23-iris.png"
     },
     {
       "name": "Lavender",
-      "url": "https://i.988726.xyz/icon/rex-17-lavender.png"
+      "url": "https://i.988726.xyz/icon/rex-square-24-lavender.png"
     },
     {
       "name": "Steel Blue",
-      "url": "https://i.988726.xyz/icon/rex-18-steel-blue.png"
+      "url": "https://i.988726.xyz/icon/rex-square-25-steel-blue.png"
     },
     {
       "name": "Mocha",
-      "url": "https://i.988726.xyz/icon/rex-19-mocha.png"
+      "url": "https://i.988726.xyz/icon/rex-square-26-mocha.png"
     },
     {
       "name": "Champagne",
-      "url": "https://i.988726.xyz/icon/rex-20-champagne.png"
+      "url": "https://i.988726.xyz/icon/rex-square-27-champagne.png"
     },
     {
       "name": "Obsidian",
-      "url": "https://i.988726.xyz/icon/rex-21-obsidian.png"
+      "url": "https://i.988726.xyz/icon/rex-square-28-obsidian.png"
     },
     {
-      "name": "Sunflower",
-      "url": "https://i.988726.xyz/icon/rex-22-sunflower.png"
+      "name": "Pure Yellow",
+      "url": "https://i.988726.xyz/icon/rex-square-39-pure-yellow.png"
     },
     {
-      "name": "Amber",
-      "url": "https://i.988726.xyz/icon/rex-23-amber.png"
+      "name": "Lemon Yellow",
+      "url": "https://i.988726.xyz/icon/rex-square-40-lemon-yellow.png"
     },
     {
-      "name": "Emerald",
-      "url": "https://i.988726.xyz/icon/rex-24-emerald.png"
+      "name": "Sunflower Yellow",
+      "url": "https://i.988726.xyz/icon/rex-square-41-sunflower-yellow.png"
+    },
+    {
+      "name": "Amber Yellow",
+      "url": "https://i.988726.xyz/icon/rex-square-42-amber-yellow.png"
+    },
+    {
+      "name": "Champagne Yellow",
+      "url": "https://i.988726.xyz/icon/rex-square-43-champagne-yellow.png"
+    },
+    {
+      "name": "Mustard Yellow",
+      "url": "https://i.988726.xyz/icon/rex-square-44-mustard-yellow.png"
+    },
+    {
+      "name": "AVDB Play Blue",
+      "url": "https://i.988726.xyz/icon/avdb-a-play-blue-1024.png"
+    },
+    {
+      "name": "AVDB Play Graphite",
+      "url": "https://i.988726.xyz/icon/avdb-a-play-graphite-1024.png"
+    },
+    {
+      "name": "AVDB Play Violet",
+      "url": "https://i.988726.xyz/icon/avdb-a-play-violet-1024.png"
+    },
+    {
+      "name": "AVDB Play Violet Mark",
+      "url": "https://i.988726.xyz/icon/avdb-a-play-violet-mark-transparent.png"
+    },
+    {
+      "name": "AVDB AV Ribbon Violet",
+      "url": "https://i.988726.xyz/icon/avdb-av-ribbon-violet-1024.png"
+    },
+    {
+      "name": "AVDB Media Library Violet",
+      "url": "https://i.988726.xyz/icon/avdb-media-library-violet-1024.png"
+    },
+    {
+      "name": "AVDB Premium Graphite",
+      "url": "https://i.988726.xyz/icon/avdb-premium-graphite-1024.png"
+    },
+    {
+      "name": "AVDB Premium Plum Transparent",
+      "url": "https://i.988726.xyz/icon/avdb-premium-plum-transparent.png"
+    },
+    {
+      "name": "AVDB Premium Midnight",
+      "url": "https://i.988726.xyz/icon/avdb-premium-midnight-1024.png"
+    },
+    {
+      "name": "AVDB Premium Plum",
+      "url": "https://i.988726.xyz/icon/avdb-premium-plum-1024.png"
     }
   ]
 }
